@@ -2,26 +2,15 @@
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+Many thanks to netlify for making this Bluise template by Gohmah for FREE. I forked this template on 20 JULY 2022 and am learning how to create PWA and how to use Netlify CMS. But I'm most impressed at the work done. So how do I proceed? Do I pay for this template? Can I continue to use it for FREE as I learn? 
 
-So far we've got:
+Am so thankful for the opportunity to learn and to see the code even as you are browsing this public repo. So if I change it to private, am i "Stealing" a template? 
 
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-- PWA ready.
-- SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
+Apart from credits and acknowledgement, I don't want to disturb the original Bluise template. Will I accidentally update that template file when I work on this file? 
 
-Few things I'd like to add in the future:
+How do I update the dependencies when I don't even have a clue on Tailwind and the other files running this template so efficiently? 
 
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
+Where do I go for help? Can I delete the rest of this readme file? Everthing below this last paragraph was not written by me.
 
 ## Quickstart
 

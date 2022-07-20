@@ -2,7 +2,7 @@
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-Many thanks to netlify for making this Bluise template by Gohmah for FREE. I forked this template on 20 JULY 2022 and am learning how to create PWA and how to use Netlify CMS. But I'm most impressed at the work done. So how do I proceed? Do I pay for this template? Can I continue to use it for FREE as I learn? 
+Many thanks to netlify for making this [Bluise template by Gomah for FREE](https://github.com/Gomah/bluise/blob/master/README.md). I forked this template on 20 JULY 2022 and am learning how to create PWA and how to use Netlify CMS. But I'm most impressed at the work done. So how do I proceed? Do I pay for this template? Can I continue to use it for FREE as I learn? 
 
 Am so thankful for the opportunity to learn and to see the code even as you are browsing this public repo. So if I change it to private, am i "Stealing" a template? 
 

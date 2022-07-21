@@ -2,9 +2,9 @@
   "title": "Cakes and Crumbs",
   "titleTemplate": "| Melaka",
   "welcomeText": "# Cakes and Crumbs Melaka.\n\nAuthentic Cakes from Melaka baked with love and made with your joy in view.",
-  "logo": "/images/uploads/81464027_471079400471586_3271125514441457664_n.jpg",
-  "icon": "/images/uploads/logo.png",
+  "logo": "/images/uploads/cakes-crumbs.jpg",
+  "icon": "/images/uploads/cakes-crumbs.jpg",
   "loadingColor": "#0b3765",
   "seoDescription": "Melaka's one and only Cakes and Crumbs website in PWA",
-  "seoMetaImage": ""
+  "seoMetaImage": "/images/uploads/cakes-crumbs.jpg"
 }
